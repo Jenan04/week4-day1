@@ -1,0 +1,19 @@
+{
+  "name": "blog-cms",
+  "version": "1.0.0",
+  "description": "Simple blog CMS using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "CMS",
+    "nodejs",
+    "blogging"
+  ],
+  "author": "Jenan04",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^3.5.4"
+  }
+}
