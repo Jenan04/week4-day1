@@ -4,7 +4,8 @@
   "description": "Simple blog CMS using Node.js",
   "main": "server.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "start":"node src/server.js"
   },
   "keywords": [
     "CMS",
