@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "",
-    "start": "node node-girls-ws/src/server.js"
+    "start": "node server.js"
   },
   "keywords": [
     "CMS",
