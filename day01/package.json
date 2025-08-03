@@ -4,7 +4,7 @@
   "description": "Simple blog CMS using Node.js",
   "main": "server.js",
   "scripts": {
-    "test": ""و
+    "test": "",
     "start": "node node-girls-ws/src/server.js"
   },
   "keywords": [
